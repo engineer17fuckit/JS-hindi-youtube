@@ -20,4 +20,19 @@ let isLoggedIn = 1
  // "" => false
  // "hitesh"=> true
     
+ let value =3
+ let negative = -value
+// console.log(negative);
+
+ let str1 = "hello"
+ let str2 = " rajveer"
+ let str3 = str1 + str2
+ //console.log(str3);
+
+ console.log("1" + 2);
+ console.log(1 + "2");
+
+ // prefix and postfix self study
  
+ 
+  
